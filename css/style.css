@@ -1,0 +1,38 @@
+h2
+{
+	font-size: 40px;
+	color:Green;
+	border:dotted;
+}
+h1
+{
+	
+	color:blue;
+}
+.wrapper
+{
+width: 40%;
+margin:0 auto;
+border: 5px;
+}
+label,span
+{
+	font-size: 20px;
+}
+.mobile, .password
+{
+
+width:90%;
+height:10px;
+padding:10px;
+font-size:18px;
+
+}
+button
+{
+width:13%;
+height:40px;
+padding:3px;
+font-size:15px;
+
+}
